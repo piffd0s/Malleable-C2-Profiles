@@ -9,7 +9,7 @@
 set sleeptime "30000";
 set jitter    "5";
 set maxdns    "255";
-set useragent "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2)";
+set useragent "Mozilla/4.0 (compatible; MSIE 8.0; Win32)";
 
 http-get {
 
